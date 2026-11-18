@@ -1,1 +1,1 @@
-{"version":"0.4.22","build":"0.4.22","architecture":"arm64","sha256":"e97f45aa537d420ea8efcb9e683a8aca5fb04697fb835b334ed61b2c7cb861c5","size":189836444,"notes":"Mac 设置新增「更新设置」，可修改或清空更新服务局域网 IP。优先从局域网下载，失败时依次尝试公网、GitHub 和 OneDrive。下载窗口显示实际来源。"}
+{"version":"0.4.23","build":"0.4.23","architecture":"arm64","sha256":"56f0d42934b53a0688a712e42a38a5adecee341010f3f84ea97a23fd3f7abbb6","size":189839386,"notes":"Mac 在后台预下载新版，确认更新后复用已校验的安装包。「已是最新版本」提示可点外关闭。已配对的 Mac 可通过局域网直连主 Mac，修复公网直连等远程线路下好为任务详情的计划说明与进展说明无法读取。"}
