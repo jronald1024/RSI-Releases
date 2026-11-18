@@ -1,1 +1,1 @@
-{"version":"0.4.27","build":"0.4.27","architecture":"arm64","sha256":"7391a09f8000a71ebd0dcca78a7f74bd8a60c07d60164db43aa7ca4245ccde50","size":189842393}
+{"version":"0.4.28","build":"0.4.28","architecture":"arm64","sha256":"12018f7e20ab8db556383cc5601659afa965b2e13867e77a091d9ab3a62945d3","size":189843638,"notes":"补水在主机升级后优先恢复同一已核验资料库的已读缓存，同时检查最新日报。服务桥接在子进程退出时直接取结果，缩短读取等待。"}
