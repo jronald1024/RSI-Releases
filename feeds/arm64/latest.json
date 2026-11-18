@@ -1,1 +1,1 @@
-{"version":"0.4.25","build":"0.4.25","architecture":"arm64","sha256":"6322cef2fe122ab5c9bf5dd1003325ab3002dbe332d87ea32b4b7c383c4b6e3b","size":189842172,"notes":"改善 Mac 公网直连阅读。好为刷新时可继续浏览和展开任务，重开优先显示短时预览并立即更新。补水首屏合并列表与正文请求。远程读取压缩较大的 JSON。确认安装时显示实际下载量与实时速度。"}
+{"version":"0.4.26","build":"0.4.26","architecture":"arm64","sha256":"37f4ce97444bd34c31523b6f25422556e0bfb7c913f2c9e5ae19dc3418a14c90","size":189843135}
