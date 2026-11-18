@@ -1,1 +1,1 @@
-{"version":"0.4.19","build":"0.4.19","architecture":"arm64","sha256":"740047102887d352beb3a3d1c9ef4224f3f48303b5bf2decbbca731424cc5f2f","size":189826783}
+{"version":"0.4.20","build":"0.4.20","architecture":"arm64","sha256":"bfda51ad2b912c339c68744fc75404e09fcc27fed7b8300753a03da4312dc446","size":189829966,"notes":"连接与数据新增本地、公网直连和云中转即时切换，保留原配对和未保存的编辑。修复好为连接检查在任务资料较多时误报超时。"}
